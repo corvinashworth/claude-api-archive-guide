@@ -1,0 +1,8 @@
+# Claude Opus 5 — Argolink
+
+- Model: claude-opus-5
+- Intent: searchable Claude API and agent notes
+- Model page: https://argolink.io/gh-claude-api-archive-guide
+- API docs: https://argolink.io/gh-unified-api-docs
+- Examples: examples/request.sh, examples/client.py
+- Contract: docs/model-contract.md
