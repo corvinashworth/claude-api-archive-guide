@@ -1,0 +1,116 @@
+{
+  "checked_at": "2026-10-07",
+  "source": "https://argolink.io/v1/models",
+  "catalog_revision": "0315cdd070b19ded",
+  "official_source": "https://platform.claude.com/docs/en/about-claude/models",
+  "models": [
+    {
+      "id": "claude-opus-4-8",
+      "display_name": "Claude Opus 4.8",
+      "owned_by": "anthropic",
+      "context_tokens": 1000000,
+      "max_input_tokens": null,
+      "max_output_tokens": 128000,
+      "endpoint": "/v1/messages",
+      "argolink": {
+        "input_per_million": 2,
+        "output_per_million": 10,
+        "cached_input_per_million": 0.2,
+        "cache_write_per_million": 2.5
+      },
+      "official_pricing": null,
+      "release_date": null,
+      "retirement_date": null
+    },
+    {
+      "id": "claude-opus-5",
+      "display_name": "Claude Opus 5",
+      "owned_by": "anthropic",
+      "context_tokens": 1000000,
+      "max_input_tokens": null,
+      "max_output_tokens": 128000,
+      "endpoint": "/v1/messages",
+      "argolink": {
+        "input_per_million": 2,
+        "output_per_million": 10,
+        "cached_input_per_million": 0.2,
+        "cache_write_per_million": 2.5
+      },
+      "official_pricing": null,
+      "release_date": null,
+      "retirement_date": null
+    },
+    {
+      "id": "claude-opus-5-5",
+      "display_name": "Claude Opus 5.5",
+      "owned_by": "anthropic",
+      "context_tokens": 1000000,
+      "max_input_tokens": null,
+      "max_output_tokens": 128000,
+      "endpoint": "/v1/messages",
+      "argolink": {
+        "input_per_million": 1.6,
+        "output_per_million": 8,
+        "cached_input_per_million": 0.08,
+        "cache_write_per_million": 2
+      },
+      "official_pricing": null,
+      "release_date": null,
+      "retirement_date": null
+    },
+    {
+      "id": "claude-fable-5",
+      "display_name": "Claude Fable 5",
+      "owned_by": "anthropic",
+      "context_tokens": 1000000,
+      "max_input_tokens": null,
+      "max_output_tokens": 128000,
+      "endpoint": "/v1/messages",
+      "argolink": {
+        "input_per_million": 4,
+        "output_per_million": 20,
+        "cached_input_per_million": 0.4,
+        "cache_write_per_million": 5
+      },
+      "official_pricing": null,
+      "release_date": null,
+      "retirement_date": null
+    },
+    {
+      "id": "claude-fable-5-1",
+      "display_name": "Claude Fable 5.1",
+      "owned_by": "anthropic",
+      "context_tokens": 1000000,
+      "max_input_tokens": null,
+      "max_output_tokens": 128000,
+      "endpoint": "/v1/messages",
+      "argolink": {
+        "input_per_million": 4,
+        "output_per_million": 20,
+        "cached_input_per_million": 0.1,
+        "cache_write_per_million": 5
+      },
+      "official_pricing": null,
+      "release_date": null,
+      "retirement_date": null
+    },
+    {
+      "id": "claude-sonnet-5",
+      "display_name": "Claude Sonnet 5",
+      "owned_by": "anthropic",
+      "context_tokens": 1000000,
+      "max_input_tokens": null,
+      "max_output_tokens": 128000,
+      "endpoint": "/v1/messages",
+      "argolink": {
+        "input_per_million": 0.8,
+        "output_per_million": 4,
+        "cached_input_per_million": 0.08,
+        "cache_write_per_million": 1
+      },
+      "official_pricing": null,
+      "release_date": null,
+      "retirement_date": null
+    }
+  ]
+}
